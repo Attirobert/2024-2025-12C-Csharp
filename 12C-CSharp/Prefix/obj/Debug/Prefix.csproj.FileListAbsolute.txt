@@ -1,0 +1,7 @@
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Prefix\bin\Debug\Prefix.exe.config
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Prefix\bin\Debug\Prefix.exe
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Prefix\bin\Debug\Prefix.pdb
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Prefix\obj\Debug\Prefix.csproj.AssemblyReference.cache
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Prefix\obj\Debug\Prefix.csproj.CoreCompileInputs.cache
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Prefix\obj\Debug\Prefix.exe
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Prefix\obj\Debug\Prefix.pdb

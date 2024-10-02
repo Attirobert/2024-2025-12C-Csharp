@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Macskak", "Macskak\Macskak.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logikai", "Logikai\Logikai.csproj", "{7EAB8596-3FC3-4047-A4B4-DF1BE63E8AD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prefix", "Prefix\Prefix.csproj", "{06EBC153-7CF6-4339-9BE9-A5BB9D5AE6CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7EAB8596-3FC3-4047-A4B4-DF1BE63E8AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EAB8596-3FC3-4047-A4B4-DF1BE63E8AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EAB8596-3FC3-4047-A4B4-DF1BE63E8AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06EBC153-7CF6-4339-9BE9-A5BB9D5AE6CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06EBC153-7CF6-4339-9BE9-A5BB9D5AE6CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06EBC153-7CF6-4339-9BE9-A5BB9D5AE6CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06EBC153-7CF6-4339-9BE9-A5BB9D5AE6CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
