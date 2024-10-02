@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TobbElem", "TobbElem\TobbEl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Macskak", "Macskak\Macskak.csproj", "{CF8FD1DA-B085-4042-BE2B-6767CCBE07AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logikai", "Logikai\Logikai.csproj", "{7EAB8596-3FC3-4047-A4B4-DF1BE63E8AD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CF8FD1DA-B085-4042-BE2B-6767CCBE07AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF8FD1DA-B085-4042-BE2B-6767CCBE07AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF8FD1DA-B085-4042-BE2B-6767CCBE07AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EAB8596-3FC3-4047-A4B4-DF1BE63E8AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EAB8596-3FC3-4047-A4B4-DF1BE63E8AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EAB8596-3FC3-4047-A4B4-DF1BE63E8AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EAB8596-3FC3-4047-A4B4-DF1BE63E8AD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

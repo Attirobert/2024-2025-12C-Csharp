@@ -1,0 +1,7 @@
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Logikai\bin\Debug\Logikai.exe.config
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Logikai\bin\Debug\Logikai.exe
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Logikai\bin\Debug\Logikai.pdb
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Logikai\obj\Debug\Logikai.csproj.AssemblyReference.cache
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Logikai\obj\Debug\Logikai.csproj.CoreCompileInputs.cache
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Logikai\obj\Debug\Logikai.exe
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Logikai\obj\Debug\Logikai.pdb
