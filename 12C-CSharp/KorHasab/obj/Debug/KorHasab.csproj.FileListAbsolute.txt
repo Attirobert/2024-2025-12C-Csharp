@@ -1,0 +1,7 @@
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\KorHasab\bin\Debug\KorHasab.exe.config
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\KorHasab\bin\Debug\KorHasab.exe
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\KorHasab\bin\Debug\KorHasab.pdb
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\KorHasab\obj\Debug\KorHasab.csproj.AssemblyReference.cache
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\KorHasab\obj\Debug\KorHasab.csproj.CoreCompileInputs.cache
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\KorHasab\obj\Debug\KorHasab.exe
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\KorHasab\obj\Debug\KorHasab.pdb
