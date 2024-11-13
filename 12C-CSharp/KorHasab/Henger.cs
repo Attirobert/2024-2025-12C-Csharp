@@ -12,11 +12,12 @@ namespace KorHasab
         private double magasság,
             térfogat;
 
+        // Konstruktor
         public Henger(double r, double m)
         {
             this.sugar = r;
             this.magasság = m;
-            SetTerulet();
+            SetTerulet();   // Az eredmény a terulet nevű osztályváltozóba kerül
             this.térfogat = this.terulet * this.magasság;
         }
 
