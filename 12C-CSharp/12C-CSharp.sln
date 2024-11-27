@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haág", "Haág\Haág.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KorHasab", "KorHasab\KorHasab.csproj", "{31584CEA-2B30-456A-96D3-2564DF07EBBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kivetel", "Kivetel\Kivetel.csproj", "{3176944F-0DC9-44E5-997E-23071F0D533B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{31584CEA-2B30-456A-96D3-2564DF07EBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31584CEA-2B30-456A-96D3-2564DF07EBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31584CEA-2B30-456A-96D3-2564DF07EBBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3176944F-0DC9-44E5-997E-23071F0D533B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3176944F-0DC9-44E5-997E-23071F0D533B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3176944F-0DC9-44E5-997E-23071F0D533B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3176944F-0DC9-44E5-997E-23071F0D533B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

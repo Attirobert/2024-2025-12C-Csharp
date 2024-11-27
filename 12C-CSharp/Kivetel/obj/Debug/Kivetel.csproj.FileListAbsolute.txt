@@ -1,0 +1,7 @@
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Kivetel\bin\Debug\Kivetel.exe.config
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Kivetel\bin\Debug\Kivetel.exe
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Kivetel\bin\Debug\Kivetel.pdb
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Kivetel\obj\Debug\Kivetel.csproj.AssemblyReference.cache
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Kivetel\obj\Debug\Kivetel.csproj.CoreCompileInputs.cache
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Kivetel\obj\Debug\Kivetel.exe
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Kivetel\obj\Debug\Kivetel.pdb
