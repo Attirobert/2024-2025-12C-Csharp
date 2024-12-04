@@ -50,6 +50,36 @@ namespace Kivetel
             }
             Console.ReadKey();
         }
+        // Hiba objektummal
+        public void KivKezObj()
+        {
+            Console.WriteLine("\nSaját Hiba objektummal kivételkezelés\nAdjon meg egy karaktert!");
+            try
+            {
+                int szam = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("A beírt szám: {0}", szam);
+            }
+            catch (FormatException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            Console.ReadKey();
+        }
 
+        // Saját hiba objektummal
+        public void KivKezSaját()
+        {
+            Console.WriteLine("\nSaját Hiba objektummal kivételkezelés\nAdjon meg egy karaktert!");
+            try
+            {
+                int szam = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("A beírt szám: {0}", szam);
+            }
+            catch 
+            {
+                throw new Exception("A beírt szám nem egész szám!");
+            }
+            Console.ReadKey();
+        }
     }
 }
