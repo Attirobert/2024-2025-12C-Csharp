@@ -13,9 +13,15 @@ namespace Kivetel
             // Osztály példányosítása
             KivetelOsztaly k = new KivetelOsztaly();
 
-            //k.KivKezNincs();
-            //k.KivKezAlt();
-            k.KivKezOs();
+            //k.KivKezNincs();    // Nincs hibakezelés, futásidejű hiba
+            //k.KivKezAlt();      // Általános hibakezelés, a hiba adataihoz nem férünk hozzá
+            //k.KivKezOs();       // Minden hibát az ősosztállyal fogunk el. Ezért csak általános megoldást adhatunk.
+            //k.KivKezObj();      // Minden hibát a saját kivétel osztályával fogunk el.  A hiba típusától függően különböző módokon járhatunk el.
+            //k.KivKezNoName();     // Új hiba objektumot példányosítunk, amit tovább dobunk és a rendszer hibakezelője dolgoz fel.
+            //k.KivKezSajatNoMessage();   // Saját hiba objektumot használunk, amiben nem adtunk meg üzenetet
+            k.KivKezSajatWithMessage(); // Saját hiba objektumot használunk, saját üzenettel
+
+            Console.ReadKey();
         }
     }
 }
