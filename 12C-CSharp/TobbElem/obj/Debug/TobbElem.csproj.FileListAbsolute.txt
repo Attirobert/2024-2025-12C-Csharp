@@ -5,3 +5,10 @@ C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\TobbElem\obj\Deb
 C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\TobbElem\obj\Debug\TobbElem.csproj.CoreCompileInputs.cache
 C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\TobbElem\obj\Debug\TobbElem.exe
 C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\TobbElem\obj\Debug\TobbElem.pdb
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\TobbElem\bin\Debug\TobbElem.exe.config
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\TobbElem\bin\Debug\TobbElem.exe
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\TobbElem\bin\Debug\TobbElem.pdb
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\TobbElem\obj\Debug\TobbElem.csproj.AssemblyReference.cache
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\TobbElem\obj\Debug\TobbElem.csproj.CoreCompileInputs.cache
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\TobbElem\obj\Debug\TobbElem.exe
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\TobbElem\obj\Debug\TobbElem.pdb

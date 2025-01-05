@@ -5,3 +5,10 @@ C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Macskak\obj\Debu
 C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Macskak\obj\Debug\Macskak.csproj.CoreCompileInputs.cache
 C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Macskak\obj\Debug\Macskak.exe
 C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Macskak\obj\Debug\Macskak.pdb
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Macskak\bin\Debug\Macskak.exe.config
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Macskak\bin\Debug\Macskak.exe
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Macskak\bin\Debug\Macskak.pdb
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Macskak\obj\Debug\Macskak.csproj.AssemblyReference.cache
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Macskak\obj\Debug\Macskak.csproj.CoreCompileInputs.cache
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Macskak\obj\Debug\Macskak.exe
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Macskak\obj\Debug\Macskak.pdb
