@@ -4,3 +4,10 @@ C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Haág\bin\Debug\
 C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Haág\obj\Debug\Haág.csproj.CoreCompileInputs.cache
 C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Haág\obj\Debug\Haág.exe
 C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\Haág\obj\Debug\Haág.pdb
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Haág\bin\Debug\Haág.exe.config
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Haág\bin\Debug\Haág.exe
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Haág\bin\Debug\Haág.pdb
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Haág\obj\Debug\Haág.csproj.AssemblyReference.cache
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Haág\obj\Debug\Haág.csproj.CoreCompileInputs.cache
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Haág\obj\Debug\Haág.exe
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Haág\obj\Debug\Haág.pdb
