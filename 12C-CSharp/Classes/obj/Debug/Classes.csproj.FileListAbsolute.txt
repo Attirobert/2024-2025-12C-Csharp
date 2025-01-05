@@ -1,0 +1,8 @@
+E:\Source\Repos\Bereg2021-22-1.13.1CSharp\Classes\bin\Debug\Classes.exe.config
+E:\Source\Repos\Bereg2021-22-1.13.1CSharp\Classes\bin\Debug\Classes.exe
+E:\Source\Repos\Bereg2021-22-1.13.1CSharp\Classes\bin\Debug\Classes.pdb
+E:\Source\Repos\Bereg2021-22-1.13.1CSharp\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+E:\Source\Repos\Bereg2021-22-1.13.1CSharp\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+E:\Source\Repos\Bereg2021-22-1.13.1CSharp\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+E:\Source\Repos\Bereg2021-22-1.13.1CSharp\Classes\obj\Debug\Classes.exe
+E:\Source\Repos\Bereg2021-22-1.13.1CSharp\Classes\obj\Debug\Classes.pdb
