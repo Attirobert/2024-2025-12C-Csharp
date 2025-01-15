@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliformOOP", "PoliformOOP\PoliformOOP.csproj", "{941815A0-E70B-4CE0-8BD4-96BDE4CEE18A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetterSetter", "GetterSetter\GetterSetter.csproj", "{72F8F240-5D44-4D65-BEB0-368056B18BCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{941815A0-E70B-4CE0-8BD4-96BDE4CEE18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{941815A0-E70B-4CE0-8BD4-96BDE4CEE18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{941815A0-E70B-4CE0-8BD4-96BDE4CEE18A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F8F240-5D44-4D65-BEB0-368056B18BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F8F240-5D44-4D65-BEB0-368056B18BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F8F240-5D44-4D65-BEB0-368056B18BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F8F240-5D44-4D65-BEB0-368056B18BCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
