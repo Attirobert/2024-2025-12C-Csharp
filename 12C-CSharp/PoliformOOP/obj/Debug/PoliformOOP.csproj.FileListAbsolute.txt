@@ -1,0 +1,7 @@
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\PoliformOOP\bin\Debug\PoliformOOP.exe.config
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\PoliformOOP\bin\Debug\PoliformOOP.exe
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\PoliformOOP\bin\Debug\PoliformOOP.pdb
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\PoliformOOP\obj\Debug\PoliformOOP.csproj.AssemblyReference.cache
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\PoliformOOP\obj\Debug\PoliformOOP.csproj.CoreCompileInputs.cache
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\PoliformOOP\obj\Debug\PoliformOOP.exe
+C:\Users\karobatti\source\repos\2024-2025-12C-Csharp\12C-CSharp\PoliformOOP\obj\Debug\PoliformOOP.pdb

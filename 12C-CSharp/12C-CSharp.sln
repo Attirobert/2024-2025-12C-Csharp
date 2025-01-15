@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.11.35303.130
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teszt", "Teszt\Teszt.csproj", "{0A24D204-56B9-4C23-8BA0-4B71B7399328}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kivetel", "Kivetel\Kivetel.csproj", "{3176944F-0DC9-44E5-997E-23071F0D533B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{87289A21-434C-42B0-88FF-E4F193FB18D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliformOOP", "PoliformOOP\PoliformOOP.csproj", "{941815A0-E70B-4CE0-8BD4-96BDE4CEE18A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{87289A21-434C-42B0-88FF-E4F193FB18D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87289A21-434C-42B0-88FF-E4F193FB18D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87289A21-434C-42B0-88FF-E4F193FB18D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941815A0-E70B-4CE0-8BD4-96BDE4CEE18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941815A0-E70B-4CE0-8BD4-96BDE4CEE18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941815A0-E70B-4CE0-8BD4-96BDE4CEE18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941815A0-E70B-4CE0-8BD4-96BDE4CEE18A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
