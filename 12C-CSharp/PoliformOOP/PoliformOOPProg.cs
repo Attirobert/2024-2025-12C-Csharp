@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace PoliformOOP
 {
-    class Program
+    class PoliformOOPProg
     {
         static void Main(string[] args)
         {
