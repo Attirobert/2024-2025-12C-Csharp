@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Properties\Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{1C8CFE20-38EC-4564-80DF-28C061AF3DC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orokles", "Orokles\Orokles.csproj", "{BC71B825-73C8-4AE5-ABF5-3C20AE1DE968}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{1C8CFE20-38EC-4564-80DF-28C061AF3DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C8CFE20-38EC-4564-80DF-28C061AF3DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C8CFE20-38EC-4564-80DF-28C061AF3DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC71B825-73C8-4AE5-ABF5-3C20AE1DE968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC71B825-73C8-4AE5-ABF5-3C20AE1DE968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC71B825-73C8-4AE5-ABF5-3C20AE1DE968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC71B825-73C8-4AE5-ABF5-3C20AE1DE968}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
