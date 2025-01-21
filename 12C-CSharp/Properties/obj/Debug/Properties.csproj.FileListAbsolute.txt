@@ -1,0 +1,7 @@
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Properties\bin\Debug\Properties.exe.config
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Properties\bin\Debug\Properties.exe
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Properties\bin\Debug\Properties.pdb
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Properties\obj\Debug\Properties.exe
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Properties\obj\Debug\Properties.pdb
