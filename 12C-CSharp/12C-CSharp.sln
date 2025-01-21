@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.34301.259
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teszt", "Teszt\Teszt.csproj", "{0A24D204-56B9-4C23-8BA0-4B71B7399328}"
 EndProject
@@ -24,6 +24,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliformOOP", "PoliformOOP\PoliformOOP.csproj", "{941815A0-E70B-4CE0-8BD4-96BDE4CEE18A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetterSetter", "GetterSetter\GetterSetter.csproj", "{72F8F240-5D44-4D65-BEB0-368056B18BCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Properties\Properties.csproj", "{C794FFD2-C5D2-41E7-813B-4180887ABD06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{72F8F240-5D44-4D65-BEB0-368056B18BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72F8F240-5D44-4D65-BEB0-368056B18BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72F8F240-5D44-4D65-BEB0-368056B18BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C794FFD2-C5D2-41E7-813B-4180887ABD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C794FFD2-C5D2-41E7-813B-4180887ABD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C794FFD2-C5D2-41E7-813B-4180887ABD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C794FFD2-C5D2-41E7-813B-4180887ABD06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
