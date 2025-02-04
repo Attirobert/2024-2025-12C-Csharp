@@ -12,7 +12,7 @@ Az IEnumerable a GetEnumerator metódust határozza meg.
 Az IEnumerator a MoveNext, Reset és Current metódusokat/properties-t tartalmazza.
 */
 
-namespace IEnumerable
+namespace EnumerableNevTer
 {
     public class CustomCollection : IEnumerable<int>
     {
