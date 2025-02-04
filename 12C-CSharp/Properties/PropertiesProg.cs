@@ -3,17 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-    /* Ez a példa azt mutatja be, hogy a property féle deklaráció nem úgy hozza létre a 
-     * privát háttér változót, hogy a nagy kezdőbetűt kisbetűvé alakítja.
-     */
+/* Ez a példa azt mutatja be, hogy a property féle deklaráció nem úgy hozza létre a privát háttér változót, hogy a nagy kezdőbetűt kisbetűvé alakítja.
+*/
 
 namespace Properties
 {
     class Person
     {
         // Tagváltozók
-        string name;
+        string name;    // Osztályváltozó
 
+        // Property
         public string Name { get; set; }
 
         // Konstruktor
