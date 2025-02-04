@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3301335D-DB39-4644-B026-8D92C29A119B}|DisposInterface\\DisposInterface.csproj|c:\\users\\attila\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\disposinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3301335D-DB39-4644-B026-8D92C29A119B}|DisposInterface\\DisposInterface.csproj|solutionrelative:disposinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16ED47B6-B6B4-4F6B-AD18-681965617C49}|CloneInterface\\CloneInterface.csproj|c:\\users\\attila\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\cloneinterface\\cloneprog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16ED47B6-B6B4-4F6B-AD18-681965617C49}|CloneInterface\\CloneInterface.csproj|solutionrelative:cloneinterface\\cloneprog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C8CFE20-38EC-4564-80DF-28C061AF3DC3}|Interface\\Interface.csproj|c:\\users\\attila\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\interface\\interfaceprog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C8CFE20-38EC-4564-80DF-28C061AF3DC3}|Interface\\Interface.csproj|solutionrelative:interface\\interfaceprog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC71B825-73C8-4AE5-ABF5-3C20AE1DE968}|Orokles\\Orokles.csproj|c:\\users\\attila\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\orokles\\oroklesprog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC71B825-73C8-4AE5-ABF5-3C20AE1DE968}|Orokles\\Orokles.csproj|solutionrelative:orokles\\oroklesprog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CEE0C7D6-98BD-4309-BB6A-0DADBE1244AA}|Abstract\\Abstract.csproj|c:\\users\\attila\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEE0C7D6-98BD-4309-BB6A-0DADBE1244AA}|Abstract\\Abstract.csproj|solutionrelative:abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC71B825-73C8-4AE5-ABF5-3C20AE1DE968}|Orokles\\Orokles.csproj|c:\\users\\attila\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\orokles\\oroklesprog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC71B825-73C8-4AE5-ABF5-3C20AE1DE968}|Orokles\\Orokles.csproj|solutionrelative:orokles\\oroklesprog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\DisposInterface\\Program.cs",
-              "RelativeDocumentMoniker": "DisposInterface\\Program.cs",
-              "ToolTip": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\DisposInterface\\Program.cs",
-              "RelativeToolTip": "DisposInterface\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAB7AAAAAAAAAA==",
+              "Title": "CloneProg.cs",
+              "DocumentMoniker": "C:\\Users\\attila\\Source\\Repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\CloneInterface\\CloneProg.cs",
+              "RelativeDocumentMoniker": "CloneInterface\\CloneProg.cs",
+              "ToolTip": "C:\\Users\\attila\\Source\\Repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\CloneInterface\\CloneProg.cs",
+              "RelativeToolTip": "CloneInterface\\CloneProg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T09:20:59.721Z",
+              "WhenOpened": "2025-02-04T09:30:32.379Z",
               "EditorCaption": ""
             },
             {
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\Abstract\\Program.cs",
               "RelativeDocumentMoniker": "Abstract\\Program.cs",
@@ -73,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OroklesProg.cs",
               "DocumentMoniker": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\Orokles\\OroklesProg.cs",
               "RelativeDocumentMoniker": "Orokles\\OroklesProg.cs",
