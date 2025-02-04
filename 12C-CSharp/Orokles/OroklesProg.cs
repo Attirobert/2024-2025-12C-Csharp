@@ -7,8 +7,20 @@ using System.Threading.Tasks;
  * Példa a következőkre:
  * virtual, override
  * A virtual kulcsszó azt jelzi, hogy egy metódus, property felülírható egy származtatott osztályban. A virtual tagok alapértelmezett viselkedést biztosítanak az ősosztályban, de a származtatott osztályban az override kulcsszóval módosíthatjuk ezt a viselkedést.
+ * Mikor használjuk a virtual kulcsszót?
+    - Ha egy alapértelmezett implementációt szeretnél megadni az ősosztályban.
+    - Ha azt szeretnéd, hogy a származtatott osztályok felülírhassák ezt az alapértelmezett viselkedést.
+    - Ha polimorfizmust szeretnél megvalósítani az objektumorientált programozásban.
+**************
  * sealed
  * A sealed kulcsszó lezárja az osztályokat vagy metódusokat a további örökléstől vagy felülírástól, ezáltal biztosítva a stabilitást és a logika változatlanságát a kódbázisban.
+ * 
+ * Mikor használjuk?
+ * sealed osztály:
+Ha egy osztályt véglegessé szeretnénk tenni, és biztossá akarjuk tenni, hogy más osztályok ne örököljék és módosítsák azt.
+Példa: Beépített osztályok, mint a System.String vagy System.Math, sealed osztályok.
+ * sealed metódus:
+Ha egy metódust egy származtatott osztályban felülírunk, de nem akarjuk engedni, hogy további származtatott osztályok ezt a metódust újra felülírják.
  */
 namespace Orokles
 {
