@@ -32,6 +32,8 @@ namespace CloneInterface
 
             Console.WriteLine($"Eredeti: {original.Name}, {original.Age}");
             Console.WriteLine($"Másolat: {clone.Name}, {clone.Age}");
+
+            Console.ReadKey();
         }
     }
 }
