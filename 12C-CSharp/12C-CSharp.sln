@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloneInterface", "CloneInte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquatInterface", "EquatInterface\EquatInterface.csproj", "{A9BDEB9C-F9EB-4A95-9809-82FB855C3171}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparerInterface", "ComparerInterface\ComparerInterface.csproj", "{2A7DA9BD-C124-48CF-946D-39058FC834EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,10 @@ Global
 		{A9BDEB9C-F9EB-4A95-9809-82FB855C3171}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9BDEB9C-F9EB-4A95-9809-82FB855C3171}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9BDEB9C-F9EB-4A95-9809-82FB855C3171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A7DA9BD-C124-48CF-946D-39058FC834EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7DA9BD-C124-48CF-946D-39058FC834EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7DA9BD-C124-48CF-946D-39058FC834EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7DA9BD-C124-48CF-946D-39058FC834EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -134,6 +140,7 @@ Global
 		{3301335D-DB39-4644-B026-8D92C29A119B} = {9A403B32-6FE6-4F93-B1BB-F1DB9EC9862F}
 		{16ED47B6-B6B4-4F6B-AD18-681965617C49} = {9A403B32-6FE6-4F93-B1BB-F1DB9EC9862F}
 		{A9BDEB9C-F9EB-4A95-9809-82FB855C3171} = {9A403B32-6FE6-4F93-B1BB-F1DB9EC9862F}
+		{2A7DA9BD-C124-48CF-946D-39058FC834EA} = {9A403B32-6FE6-4F93-B1BB-F1DB9EC9862F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EAA6CA84-A142-42F6-9670-FEC74EADF79B}
