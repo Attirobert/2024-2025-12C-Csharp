@@ -30,14 +30,9 @@ namespace EnumerableNevTer
         {
             return GetEnumerator();
         }
-
-        IEnumerator System.Collections.IEnumerable.GetEnumerator()
-        {
-            throw new NotImplementedException();
-        }
     }
 
-    class EnumProg
+    class Program
     {
         static void Main()
         {
