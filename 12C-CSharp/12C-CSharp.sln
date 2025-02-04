@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.33927.289
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teszt", "Teszt\Teszt.csproj", "{0A24D204-56B9-4C23-8BA0-4B71B7399328}"
 EndProject
@@ -32,6 +32,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orokles", "Orokles\Orokles.csproj", "{BC71B825-73C8-4AE5-ABF5-3C20AE1DE968}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract", "Abstract\Abstract.csproj", "{CEE0C7D6-98BD-4309-BB6A-0DADBE1244AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interfaces", "Interfaces", "{9A403B32-6FE6-4F93-B1BB-F1DB9EC9862F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerable", "IEnumerable\IEnumerable.csproj", "{E2ECC32E-B45F-4807-966F-9CA7A114EBC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,9 +103,16 @@ Global
 		{CEE0C7D6-98BD-4309-BB6A-0DADBE1244AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEE0C7D6-98BD-4309-BB6A-0DADBE1244AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEE0C7D6-98BD-4309-BB6A-0DADBE1244AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2ECC32E-B45F-4807-966F-9CA7A114EBC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2ECC32E-B45F-4807-966F-9CA7A114EBC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2ECC32E-B45F-4807-966F-9CA7A114EBC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2ECC32E-B45F-4807-966F-9CA7A114EBC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E2ECC32E-B45F-4807-966F-9CA7A114EBC5} = {9A403B32-6FE6-4F93-B1BB-F1DB9EC9862F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EAA6CA84-A142-42F6-9670-FEC74EADF79B}
