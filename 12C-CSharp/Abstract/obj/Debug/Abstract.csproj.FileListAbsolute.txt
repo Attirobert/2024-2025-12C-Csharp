@@ -1,0 +1,7 @@
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Abstract\bin\Debug\Abstract.exe
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Abstract\bin\Debug\Abstract.pdb
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Abstract\obj\Debug\Abstract.exe
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\Abstract\obj\Debug\Abstract.pdb

@@ -1,0 +1,7 @@
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\IEnumerable\bin\Debug\IEnumerable.exe.config
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\IEnumerable\bin\Debug\IEnumerable.exe
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\IEnumerable\bin\Debug\IEnumerable.pdb
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\IEnumerable\obj\Debug\IEnumerable.csproj.AssemblyReference.cache
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\IEnumerable\obj\Debug\IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\IEnumerable\obj\Debug\IEnumerable.exe
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\IEnumerable\obj\Debug\IEnumerable.pdb

@@ -54,6 +54,7 @@ namespace Interface
             };
 
             // Lista rendezése az Age alapján
+            // A Sort() metódus a CompareTo() metódust használja!
             people.Sort();
 
             // Rendezett lista kiíratása

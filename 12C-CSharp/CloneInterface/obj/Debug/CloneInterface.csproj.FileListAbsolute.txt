@@ -1,0 +1,7 @@
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\CloneInterface\bin\Debug\CloneInterface.exe.config
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\CloneInterface\bin\Debug\CloneInterface.exe
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\CloneInterface\bin\Debug\CloneInterface.pdb
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\CloneInterface\obj\Debug\CloneInterface.csproj.AssemblyReference.cache
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\CloneInterface\obj\Debug\CloneInterface.csproj.CoreCompileInputs.cache
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\CloneInterface\obj\Debug\CloneInterface.exe
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\CloneInterface\obj\Debug\CloneInterface.pdb
