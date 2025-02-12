@@ -33,7 +33,7 @@
             // 
             // btnKattints
             // 
-            this.btnKattints.Location = new System.Drawing.Point(94, 109);
+            this.btnKattints.Location = new System.Drawing.Point(107, 124);
             this.btnKattints.Name = "btnKattints";
             this.btnKattints.Size = new System.Drawing.Size(152, 71);
             this.btnKattints.TabIndex = 0;
