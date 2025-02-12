@@ -1,0 +1,10 @@
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\ElsoForm\bin\Debug\ElsoForm.exe.config
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\ElsoForm\bin\Debug\ElsoForm.exe
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\ElsoForm\bin\Debug\ElsoForm.pdb
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\ElsoForm\obj\Debug\ElsoForm.csproj.AssemblyReference.cache
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\ElsoForm\obj\Debug\ElsoForm.MainForm.resources
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\ElsoForm\obj\Debug\ElsoForm.Properties.Resources.resources
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\ElsoForm\obj\Debug\ElsoForm.csproj.GenerateResource.cache
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\ElsoForm\obj\Debug\ElsoForm.csproj.CoreCompileInputs.cache
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\ElsoForm\obj\Debug\ElsoForm.exe
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\ElsoForm\obj\Debug\ElsoForm.pdb

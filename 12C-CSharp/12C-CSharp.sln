@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquatInterface", "EquatInte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparerInterface", "ComparerInterface\ComparerInterface.csproj", "{2A7DA9BD-C124-48CF-946D-39058FC834EA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Forms", "Forms", "{F8D7215F-4EBB-4C2F-98A6-4F989CFDCA02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElsoForm", "ElsoForm\ElsoForm.csproj", "{529BD16E-E09F-43EF-8D5D-92BC8A676DA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -131,6 +135,10 @@ Global
 		{2A7DA9BD-C124-48CF-946D-39058FC834EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A7DA9BD-C124-48CF-946D-39058FC834EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A7DA9BD-C124-48CF-946D-39058FC834EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{529BD16E-E09F-43EF-8D5D-92BC8A676DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529BD16E-E09F-43EF-8D5D-92BC8A676DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529BD16E-E09F-43EF-8D5D-92BC8A676DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529BD16E-E09F-43EF-8D5D-92BC8A676DA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -141,6 +149,7 @@ Global
 		{16ED47B6-B6B4-4F6B-AD18-681965617C49} = {9A403B32-6FE6-4F93-B1BB-F1DB9EC9862F}
 		{A9BDEB9C-F9EB-4A95-9809-82FB855C3171} = {9A403B32-6FE6-4F93-B1BB-F1DB9EC9862F}
 		{2A7DA9BD-C124-48CF-946D-39058FC834EA} = {9A403B32-6FE6-4F93-B1BB-F1DB9EC9862F}
+		{529BD16E-E09F-43EF-8D5D-92BC8A676DA1} = {F8D7215F-4EBB-4C2F-98A6-4F989CFDCA02}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EAA6CA84-A142-42F6-9670-FEC74EADF79B}
