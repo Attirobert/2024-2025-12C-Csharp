@@ -43,13 +43,13 @@ namespace ElsoForm
 
             // Megvizsgáljuk, hogy nem megyek-e ki a formból lefele és jobbra
             // Függőleges irányt vizsgálom
-            if (!iranyFel && (((point.Y + btnKattints.Height) + lepesFel) >= Height))
+            if (!iranyFel && ((point.Y - btnKattints.Height) + lepesFel) <= Height)
             {
                 // Függőleges irányt változtatok
                 iranyFel=true;
             }
             // Vízszintes irányt vizsgálom
-            if (!iranyBalra && (((point.X + btnKattints.Width) + lepesOldalt) >= Width))
+            if (!iranyBalra && (((point.X - btnKattints.Width) + lepesOldalt) <= Width))
             {
                 // Vízszintes irányt változtatok
                 iranyBalra=true;

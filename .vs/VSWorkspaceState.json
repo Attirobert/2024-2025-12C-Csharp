@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\12C-CSharp",
+    "\\12C-CSharp\\ComparerInterface"
   ],
-  "SelectedNode": "\\12C-CSharp.sln",
+  "SelectedNode": "\\12C-CSharp\\ComparerInterface\\ComparProg.cs",
   "PreviewInSolutionExplorer": false
 }
