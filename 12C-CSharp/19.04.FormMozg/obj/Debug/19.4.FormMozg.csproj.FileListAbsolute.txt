@@ -9,3 +9,13 @@ C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladat
 C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\FormMozg\obj\Debug\19.4.FormMozg.csproj.CoreCompileInputs.cache
 C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\FormMozg\obj\Debug\FormMozg.exe
 C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\FormMozg\obj\Debug\FormMozg.pdb
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.04.FormMozg\bin\Debug\FormMozg.exe.config
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.04.FormMozg\bin\Debug\FormMozg.exe
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.04.FormMozg\bin\Debug\FormMozg.pdb
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.04.FormMozg\obj\Debug\19.4.FormMozg.csproj.AssemblyReference.cache
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.04.FormMozg\obj\Debug\FormMozg.Form1.resources
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.04.FormMozg\obj\Debug\FormMozg.Properties.Resources.resources
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.04.FormMozg\obj\Debug\19.4.FormMozg.csproj.GenerateResource.cache
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.04.FormMozg\obj\Debug\19.4.FormMozg.csproj.CoreCompileInputs.cache
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.04.FormMozg\obj\Debug\FormMozg.exe
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.04.FormMozg\obj\Debug\FormMozg.pdb
