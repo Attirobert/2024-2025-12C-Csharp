@@ -1,0 +1,21 @@
+C:\Users\kovac\source\repos\Kurzor\Kurzor\bin\Debug\Kurzor.exe.config
+C:\Users\kovac\source\repos\Kurzor\Kurzor\bin\Debug\Kurzor.exe
+C:\Users\kovac\source\repos\Kurzor\Kurzor\bin\Debug\Kurzor.pdb
+C:\Users\kovac\source\repos\Kurzor\Kurzor\obj\Debug\Kurzor.csprojAssemblyReference.cache
+C:\Users\kovac\source\repos\Kurzor\Kurzor\obj\Debug\Kurzor.Form1.resources
+C:\Users\kovac\source\repos\Kurzor\Kurzor\obj\Debug\Kurzor.Properties.Resources.resources
+C:\Users\kovac\source\repos\Kurzor\Kurzor\obj\Debug\Kurzor.csproj.GenerateResource.cache
+C:\Users\kovac\source\repos\Kurzor\Kurzor\obj\Debug\Kurzor.csproj.CoreCompileInputs.cache
+C:\Users\kovac\source\repos\Kurzor\Kurzor\obj\Debug\Kurzor.exe
+C:\Users\kovac\source\repos\Kurzor\Kurzor\obj\Debug\Kurzor.pdb
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\Kurzor\bin\Debug\Kurzor.exe.config
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\Kurzor\bin\Debug\Kurzor.exe
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\Kurzor\bin\Debug\Kurzor.pdb
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\Kurzor\obj\Debug\Kurzor.csproj.AssemblyReference.cache
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\Kurzor\obj\Debug\Kurzor.csproj.SuggestedBindingRedirects.cache
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\Kurzor\obj\Debug\Kurzor.Form1.resources
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\Kurzor\obj\Debug\Kurzor.Properties.Resources.resources
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\Kurzor\obj\Debug\Kurzor.csproj.GenerateResource.cache
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\Kurzor\obj\Debug\Kurzor.csproj.CoreCompileInputs.cache
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\Kurzor\obj\Debug\Kurzor.exe
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\Kurzor\obj\Debug\Kurzor.pdb

@@ -1,0 +1,20 @@
+C:\Users\kovac\source\repos\TextAlign2\TextAlign2\bin\Debug\TextAlign2.exe.config
+C:\Users\kovac\source\repos\TextAlign2\TextAlign2\bin\Debug\TextAlign2.exe
+C:\Users\kovac\source\repos\TextAlign2\TextAlign2\bin\Debug\TextAlign2.pdb
+C:\Users\kovac\source\repos\TextAlign2\TextAlign2\obj\Debug\TextAlign2.Form1.resources
+C:\Users\kovac\source\repos\TextAlign2\TextAlign2\obj\Debug\TextAlign2.Properties.Resources.resources
+C:\Users\kovac\source\repos\TextAlign2\TextAlign2\obj\Debug\TextAlign2.csproj.GenerateResource.cache
+C:\Users\kovac\source\repos\TextAlign2\TextAlign2\obj\Debug\TextAlign2.csproj.CoreCompileInputs.cache
+C:\Users\kovac\source\repos\TextAlign2\TextAlign2\obj\Debug\TextAlign2.exe
+C:\Users\kovac\source\repos\TextAlign2\TextAlign2\obj\Debug\TextAlign2.pdb
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\TextAlign2\bin\Debug\TextAlign2.exe.config
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\TextAlign2\bin\Debug\TextAlign2.exe
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\TextAlign2\bin\Debug\TextAlign2.pdb
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\TextAlign2\obj\Debug\TextAlign2.csproj.AssemblyReference.cache
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\TextAlign2\obj\Debug\TextAlign2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\TextAlign2\obj\Debug\TextAlign2.Form1.resources
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\TextAlign2\obj\Debug\TextAlign2.Properties.Resources.resources
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\TextAlign2\obj\Debug\TextAlign2.csproj.GenerateResource.cache
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\TextAlign2\obj\Debug\TextAlign2.csproj.CoreCompileInputs.cache
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\TextAlign2\obj\Debug\TextAlign2.exe
+C:\Users\kovac\OneDrive\Oktatás\Tananyagok\Tudásbázis\Programozás\C#\Feladatok\Csharp-gyak\19. Forms\TextAlign2\obj\Debug\TextAlign2.pdb
