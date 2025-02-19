@@ -1,0 +1,10 @@
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.02.TextAlign\bin\Debug\TextAlign.exe.config
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.02.TextAlign\bin\Debug\TextAlign.exe
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.02.TextAlign\bin\Debug\TextAlign.pdb
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.02.TextAlign\obj\Debug\19.02.TextAlign.csproj.AssemblyReference.cache
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.02.TextAlign\obj\Debug\TextAlign.Form1.resources
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.02.TextAlign\obj\Debug\TextAlign.Properties.Resources.resources
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.02.TextAlign\obj\Debug\19.02.TextAlign.csproj.GenerateResource.cache
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.02.TextAlign\obj\Debug\19.02.TextAlign.csproj.CoreCompileInputs.cache
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.02.TextAlign\obj\Debug\TextAlign.exe
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.02.TextAlign\obj\Debug\TextAlign.pdb

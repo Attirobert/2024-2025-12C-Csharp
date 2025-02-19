@@ -19,10 +19,14 @@ namespace Kurzor
 
         private void panel1_MouseMove(object sender, MouseEventArgs e)
         {
+            // Kimentem az egér új pozícióját
             int n = e.X;
             int m = e.Y;
 
+            // A pozíciókat kiíratom a label-be
             lblSzoveg.Text = ($"X:{n}, Y:{m}");
+
+            /// Az egér pozícióhoz viszem a label-t
             lblSzoveg.Top = m;
             lblSzoveg.Left = n;
         }

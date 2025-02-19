@@ -1,0 +1,10 @@
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.03.Kurzor\bin\Debug\Kurzor.exe.config
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.03.Kurzor\bin\Debug\Kurzor.exe
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.03.Kurzor\bin\Debug\Kurzor.pdb
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.03.Kurzor\obj\Debug\19.03.Kurzor.csproj.AssemblyReference.cache
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.03.Kurzor\obj\Debug\Kurzor.Form1.resources
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.03.Kurzor\obj\Debug\Kurzor.Properties.Resources.resources
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.03.Kurzor\obj\Debug\19.03.Kurzor.csproj.GenerateResource.cache
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.03.Kurzor\obj\Debug\19.03.Kurzor.csproj.CoreCompileInputs.cache
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.03.Kurzor\obj\Debug\Kurzor.exe
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.03.Kurzor\obj\Debug\Kurzor.pdb

@@ -20,9 +20,10 @@ namespace TextAlign
 
         private void label1_MouseClick(object sender, MouseEventArgs e)
         {
-            int n = e.X / (label1.Width / 3);
-            int m = e.Y / (label1.Height / 3);
+            int n = e.X / (label1.Width / 3);   // Vízszintes méret harmada
+            int m = e.Y / (label1.Height / 3);  // Függőleges méret harmada
 
+            // A képernyő 9 négyszögre van osztva és itt számolom ki, hogy hanyadik négyszögbe kattintottam
             switch (m * 3 + n)
             {
                 case 0: label1.TextAlign = ContentAlignment.TopLeft; break;
