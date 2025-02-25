@@ -1,9 +1,5 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\",
-  "Documents": [],
-=======
   "WorkspaceRootPath": "C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\",
   "Documents": [
     {
@@ -15,7 +11,6 @@
       "RelativeMoniker": "D:0:0:{DFA23F8C-D32C-4849-9C2C-A2D3AC46A6AD}|19.04.FormMozg\\19.4.FormMozg.csproj|solutionrelative:19.04.formmozg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
->>>>>>> 6bd8662adda72378f3df18a119dcc58eba4df5c8
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -23,17 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": -1,
-=======
           "SelectedChildIndex": 3,
->>>>>>> 6bd8662adda72378f3df18a119dcc58eba4df5c8
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-<<<<<<< HEAD
-=======
             },
             {
               "$type": "Bookmark",
@@ -63,7 +52,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T07:48:57.684Z",
               "EditorCaption": " [Design]"
->>>>>>> 6bd8662adda72378f3df18a119dcc58eba4df5c8
             }
           ]
         }
