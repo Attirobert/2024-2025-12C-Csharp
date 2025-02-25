@@ -1,0 +1,10 @@
+C:\Users\kovac\source\repos\ScrollBar\ScrollBar\bin\Debug\ScrollBar.exe.config
+C:\Users\kovac\source\repos\ScrollBar\ScrollBar\bin\Debug\ScrollBar.exe
+C:\Users\kovac\source\repos\ScrollBar\ScrollBar\bin\Debug\ScrollBar.pdb
+C:\Users\kovac\source\repos\ScrollBar\ScrollBar\obj\Debug\ScrollBar.csprojAssemblyReference.cache
+C:\Users\kovac\source\repos\ScrollBar\ScrollBar\obj\Debug\ScrollBar.Form1.resources
+C:\Users\kovac\source\repos\ScrollBar\ScrollBar\obj\Debug\ScrollBar.Properties.Resources.resources
+C:\Users\kovac\source\repos\ScrollBar\ScrollBar\obj\Debug\ScrollBar.csproj.GenerateResource.cache
+C:\Users\kovac\source\repos\ScrollBar\ScrollBar\obj\Debug\ScrollBar.csproj.CoreCompileInputs.cache
+C:\Users\kovac\source\repos\ScrollBar\ScrollBar\obj\Debug\ScrollBar.exe
+C:\Users\kovac\source\repos\ScrollBar\ScrollBar\obj\Debug\ScrollBar.pdb

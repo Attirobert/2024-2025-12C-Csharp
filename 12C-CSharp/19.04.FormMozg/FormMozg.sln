@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.4.FormMozg", "19.4.FormMozg.csproj", "{DFA23F8C-D32C-4849-9C2C-A2D3AC46A6AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA23F8C-D32C-4849-9C2C-A2D3AC46A6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA23F8C-D32C-4849-9C2C-A2D3AC46A6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA23F8C-D32C-4849-9C2C-A2D3AC46A6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA23F8C-D32C-4849-9C2C-A2D3AC46A6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFB89312-A12A-4696-95B1-F7D13CA947B4}
+	EndGlobalSection
+EndGlobal

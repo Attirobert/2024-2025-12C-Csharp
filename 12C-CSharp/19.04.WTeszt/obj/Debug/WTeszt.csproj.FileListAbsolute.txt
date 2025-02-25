@@ -1,0 +1,10 @@
+C:\Users\kovac\source\repos\WTeszt\WTeszt\bin\Debug\WTeszt.exe.config
+C:\Users\kovac\source\repos\WTeszt\WTeszt\bin\Debug\WTeszt.exe
+C:\Users\kovac\source\repos\WTeszt\WTeszt\bin\Debug\WTeszt.pdb
+C:\Users\kovac\source\repos\WTeszt\WTeszt\obj\Debug\WTeszt.csprojAssemblyReference.cache
+C:\Users\kovac\source\repos\WTeszt\WTeszt\obj\Debug\WTeszt.Form1.resources
+C:\Users\kovac\source\repos\WTeszt\WTeszt\obj\Debug\WTeszt.Properties.Resources.resources
+C:\Users\kovac\source\repos\WTeszt\WTeszt\obj\Debug\WTeszt.csproj.GenerateResource.cache
+C:\Users\kovac\source\repos\WTeszt\WTeszt\obj\Debug\WTeszt.csproj.CoreCompileInputs.cache
+C:\Users\kovac\source\repos\WTeszt\WTeszt\obj\Debug\WTeszt.exe
+C:\Users\kovac\source\repos\WTeszt\WTeszt\obj\Debug\WTeszt.pdb
