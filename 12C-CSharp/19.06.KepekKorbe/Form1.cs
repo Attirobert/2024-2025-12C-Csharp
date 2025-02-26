@@ -42,5 +42,10 @@ namespace KepekKorbe
             label7.Image = label8.Image;
             label8.Image = s;
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
