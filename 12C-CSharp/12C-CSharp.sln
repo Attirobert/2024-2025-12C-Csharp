@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinamKomp", "19.07.DinamKom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KepekKorbe", "19.06.KepekKorbe\KepekKorbe.csproj", "{0FB3094A-9D65-4836-8319-C7D6210155A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Halmazok", "19.08.Halmazok\Halmazok.csproj", "{E9DD7A69-89BC-4E17-9C55-E35617E261F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -181,6 +183,10 @@ Global
 		{0FB3094A-9D65-4836-8319-C7D6210155A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FB3094A-9D65-4836-8319-C7D6210155A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FB3094A-9D65-4836-8319-C7D6210155A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9DD7A69-89BC-4E17-9C55-E35617E261F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9DD7A69-89BC-4E17-9C55-E35617E261F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9DD7A69-89BC-4E17-9C55-E35617E261F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9DD7A69-89BC-4E17-9C55-E35617E261F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -199,6 +205,7 @@ Global
 		{9BF26317-E6DF-4E4F-B3C9-D7B696EF50B8} = {F8D7215F-4EBB-4C2F-98A6-4F989CFDCA02}
 		{A4DD8EE4-04EB-470F-8EE8-2D697B9744AD} = {F8D7215F-4EBB-4C2F-98A6-4F989CFDCA02}
 		{0FB3094A-9D65-4836-8319-C7D6210155A4} = {F8D7215F-4EBB-4C2F-98A6-4F989CFDCA02}
+		{E9DD7A69-89BC-4E17-9C55-E35617E261F5} = {F8D7215F-4EBB-4C2F-98A6-4F989CFDCA02}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EAA6CA84-A142-42F6-9670-FEC74EADF79B}
