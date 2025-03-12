@@ -8,3 +8,13 @@ C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szof
 C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\Halmazok\obj\Debug\Halmazok.csproj.CoreCompileInputs.cache
 C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\Halmazok\obj\Debug\Halmazok.exe
 C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\Halmazok\obj\Debug\Halmazok.pdb
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.08.Halmazok\bin\Debug\Halmazok.exe.config
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.08.Halmazok\bin\Debug\Halmazok.exe
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.08.Halmazok\bin\Debug\Halmazok.pdb
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.08.Halmazok\obj\Debug\Halmazok.csproj.AssemblyReference.cache
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.08.Halmazok\obj\Debug\Halmazok.Form1.resources
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.08.Halmazok\obj\Debug\Halmazok.Properties.Resources.resources
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.08.Halmazok\obj\Debug\Halmazok.csproj.GenerateResource.cache
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.08.Halmazok\obj\Debug\Halmazok.csproj.CoreCompileInputs.cache
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.08.Halmazok\obj\Debug\Halmazok.exe
+C:\Users\karobatti\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\19.08.Halmazok\obj\Debug\Halmazok.pdb

@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DD7A69-89BC-4E17-9C55-E35617E261F5}|19.08.Halmazok\\Halmazok.csproj|c:\\users\\karobatti\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\19.08.halmazok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9DD7A69-89BC-4E17-9C55-E35617E261F5}|19.08.Halmazok\\Halmazok.csproj|solutionrelative:19.08.halmazok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\19.08.Halmazok\\Form1.cs",
+              "RelativeDocumentMoniker": "19.08.Halmazok\\Form1.cs",
+              "ToolTip": "C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\19.08.Halmazok\\Form1.cs [Design]",
+              "RelativeToolTip": "19.08.Halmazok\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T06:26:53.289Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

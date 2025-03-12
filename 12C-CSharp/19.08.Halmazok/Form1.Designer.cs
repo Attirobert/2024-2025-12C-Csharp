@@ -206,6 +206,7 @@
             this.Controls.Add(this.lbxA);
             this.Name = "Form1";
             this.Text = "Halmaz műveletek";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.nlA)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nlB)).EndInit();
             this.ResumeLayout(false);
