@@ -1,7 +1,17 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\",
   "Documents": [],
+=======
+  "WorkspaceRootPath": "C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DD7A69-89BC-4E17-9C55-E35617E261F5}|19.08.Halmazok\\Halmazok.csproj|c:\\users\\karobatti\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\19.08.halmazok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9DD7A69-89BC-4E17-9C55-E35617E261F5}|19.08.Halmazok\\Halmazok.csproj|solutionrelative:19.08.halmazok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+>>>>>>> c421eff9e60e8a5be6a79e77e08cb5a2c01e5b7c
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +19,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": -1,
+=======
+          "SelectedChildIndex": 2,
+>>>>>>> c421eff9e60e8a5be6a79e77e08cb5a2c01e5b7c
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+<<<<<<< HEAD
+=======
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\19.08.Halmazok\\Form1.cs",
+              "RelativeDocumentMoniker": "19.08.Halmazok\\Form1.cs",
+              "ToolTip": "C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\19.08.Halmazok\\Form1.cs [Design]",
+              "RelativeToolTip": "19.08.Halmazok\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T06:26:53.289Z",
+              "EditorCaption": " [Design]"
+>>>>>>> c421eff9e60e8a5be6a79e77e08cb5a2c01e5b7c
             }
           ]
         }

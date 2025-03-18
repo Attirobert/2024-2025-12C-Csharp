@@ -35,7 +35,7 @@ namespace FormMozg
             this.btnJobbszel = new System.Windows.Forms.Button();
             this.btnLe = new System.Windows.Forms.Button();
             this.btnAlul = new System.Windows.Forms.Button();
-            this.button9 = new System.Windows.Forms.Button();
+            this.btnKozep = new System.Windows.Forms.Button();
             this.btnBalra = new System.Windows.Forms.Button();
             this.btnBalszel = new System.Windows.Forms.Button();
             this.gpbAtlatszo = new System.Windows.Forms.GroupBox();
@@ -58,6 +58,7 @@ namespace FormMozg
             this.btnJobb.TabIndex = 0;
             this.btnJobb.Text = "Jobbra";
             this.btnJobb.UseVisualStyleBackColor = true;
+            this.btnJobb.Click += new System.EventHandler(this.btnJobb_Click);
             // 
             // btnFel
             // 
@@ -67,6 +68,7 @@ namespace FormMozg
             this.btnFel.TabIndex = 0;
             this.btnFel.Text = "Fel";
             this.btnFel.UseVisualStyleBackColor = true;
+            this.btnFel.Click += new System.EventHandler(this.btnFel_Click);
             // 
             // btnFelul
             // 
@@ -86,6 +88,7 @@ namespace FormMozg
             this.btnJobbszel.TabIndex = 0;
             this.btnJobbszel.Text = "Jobbszélre";
             this.btnJobbszel.UseVisualStyleBackColor = true;
+            this.btnJobbszel.Click += new System.EventHandler(this.btnJobbszel_Click);
             // 
             // btnLe
             // 
@@ -95,6 +98,7 @@ namespace FormMozg
             this.btnLe.TabIndex = 0;
             this.btnLe.Text = "Lefele";
             this.btnLe.UseVisualStyleBackColor = true;
+            this.btnLe.Click += new System.EventHandler(this.btnLe_Click);
             // 
             // btnAlul
             // 
@@ -104,15 +108,17 @@ namespace FormMozg
             this.btnAlul.TabIndex = 0;
             this.btnAlul.Text = "Alulra";
             this.btnAlul.UseVisualStyleBackColor = true;
+            this.btnAlul.Click += new System.EventHandler(this.btnAlul_Click);
             // 
-            // button9
+            // btnKozep
             // 
-            this.button9.Location = new System.Drawing.Point(299, 211);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(82, 29);
-            this.button9.TabIndex = 0;
-            this.button9.Text = "Középre";
-            this.button9.UseVisualStyleBackColor = true;
+            this.btnKozep.Location = new System.Drawing.Point(299, 211);
+            this.btnKozep.Name = "btnKozep";
+            this.btnKozep.Size = new System.Drawing.Size(82, 29);
+            this.btnKozep.TabIndex = 0;
+            this.btnKozep.Text = "Középre";
+            this.btnKozep.UseVisualStyleBackColor = true;
+            this.btnKozep.Click += new System.EventHandler(this.btnKozep_Click);
             // 
             // btnBalra
             // 
@@ -122,6 +128,7 @@ namespace FormMozg
             this.btnBalra.TabIndex = 0;
             this.btnBalra.Text = "Balra";
             this.btnBalra.UseVisualStyleBackColor = true;
+            this.btnBalra.Click += new System.EventHandler(this.btnBalra_Click);
             // 
             // btnBalszel
             // 
@@ -131,6 +138,7 @@ namespace FormMozg
             this.btnBalszel.TabIndex = 0;
             this.btnBalszel.Text = "Balszélre";
             this.btnBalszel.UseVisualStyleBackColor = true;
+            this.btnBalszel.Click += new System.EventHandler(this.btnBalszel_Click);
             // 
             // gpbAtlatszo
             // 
@@ -162,6 +170,7 @@ namespace FormMozg
             this.btnOpCsok.TabIndex = 0;
             this.btnOpCsok.Text = "Csökken";
             this.btnOpCsok.UseVisualStyleBackColor = true;
+            this.btnOpCsok.Click += new System.EventHandler(this.btnOpCsok_Click);
             // 
             // btnOpNo
             // 
@@ -171,6 +180,7 @@ namespace FormMozg
             this.btnOpNo.TabIndex = 0;
             this.btnOpNo.Text = "Növekszik";
             this.btnOpNo.UseVisualStyleBackColor = true;
+            this.btnOpNo.Click += new System.EventHandler(this.btnOpNo_Click);
             // 
             // gpbMeret
             // 
@@ -223,7 +233,7 @@ namespace FormMozg
             this.Controls.Add(this.gpbAtlatszo);
             this.Controls.Add(this.btnBalszel);
             this.Controls.Add(this.btnBalra);
-            this.Controls.Add(this.button9);
+            this.Controls.Add(this.btnKozep);
             this.Controls.Add(this.btnAlul);
             this.Controls.Add(this.btnLe);
             this.Controls.Add(this.btnJobbszel);
@@ -249,7 +259,7 @@ namespace FormMozg
         private System.Windows.Forms.Button btnJobbszel;
         private System.Windows.Forms.Button btnLe;
         private System.Windows.Forms.Button btnAlul;
-        private System.Windows.Forms.Button button9;
+        private System.Windows.Forms.Button btnKozep;
         private System.Windows.Forms.Button btnBalra;
         private System.Windows.Forms.Button btnBalszel;
         private System.Windows.Forms.GroupBox gpbAtlatszo;
