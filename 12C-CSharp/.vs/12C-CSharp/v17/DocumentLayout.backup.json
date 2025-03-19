@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\",
+  "WorkspaceRootPath": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9DD7A69-89BC-4E17-9C55-E35617E261F5}|19.08.Halmazok\\Halmazok.csproj|c:\\users\\karobatti\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\19.08.halmazok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DD7A69-89BC-4E17-9C55-E35617E261F5}|19.08.Halmazok\\Halmazok.csproj|solutionrelative:19.08.halmazok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54BDB9EF-B8EE-44AD-9CDF-01F4FFF6CCA9}|MySqlUsersElo2\\MySqlUsersElo2.csproj|c:\\users\\attila\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\mysqluserselo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54BDB9EF-B8EE-44AD-9CDF-01F4FFF6CCA9}|MySqlUsersElo2\\MySqlUsersElo2.csproj|solutionrelative:mysqluserselo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DD7A69-89BC-4E17-9C55-E35617E261F5}|19.08.Halmazok\\Halmazok.csproj|c:\\users\\karobatti\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\19.08.halmazok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E9DD7A69-89BC-4E17-9C55-E35617E261F5}|19.08.Halmazok\\Halmazok.csproj|solutionrelative:19.08.halmazok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{54BDB9EF-B8EE-44AD-9CDF-01F4FFF6CCA9}|MySqlUsersElo2\\MySqlUsersElo2.csproj|c:\\users\\attila\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\mysqluserselo2\\data\\usersdata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{54BDB9EF-B8EE-44AD-9CDF-01F4FFF6CCA9}|MySqlUsersElo2\\MySqlUsersElo2.csproj|solutionrelative:mysqluserselo2\\data\\usersdata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BDB9EF-B8EE-44AD-9CDF-01F4FFF6CCA9}|MySqlUsersElo2\\MySqlUsersElo2.csproj|c:\\users\\attila\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\mysqluserselo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BDB9EF-B8EE-44AD-9CDF-01F4FFF6CCA9}|MySqlUsersElo2\\MySqlUsersElo2.csproj|solutionrelative:mysqluserselo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BDB9EF-B8EE-44AD-9CDF-01F4FFF6CCA9}|MySqlUsersElo2\\MySqlUsersElo2.csproj|c:\\users\\attila\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\mysqluserselo2\\data\\usersdata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{54BDB9EF-B8EE-44AD-9CDF-01F4FFF6CCA9}|MySqlUsersElo2\\MySqlUsersElo2.csproj|solutionrelative:mysqluserselo2\\data\\usersdata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,39 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\19.08.Halmazok\\Form1.cs",
-              "RelativeDocumentMoniker": "19.08.Halmazok\\Form1.cs",
-              "ToolTip": "C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\19.08.Halmazok\\Form1.cs",
-              "RelativeToolTip": "19.08.Halmazok\\Form1.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAnwBkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T07:07:23.667Z",
+              "DocumentIndex": 1,
+              "Title": "usersData.sql ",
+              "DocumentMoniker": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\MySqlUsersElo2\\Data\\usersData.sql",
+              "RelativeDocumentMoniker": "MySqlUsersElo2\\Data\\usersData.sql",
+              "ToolTip": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\MySqlUsersElo2\\Data\\usersData.sql",
+              "RelativeToolTip": "MySqlUsersElo2\\Data\\usersData.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-18T19:07:23.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\19.08.Halmazok\\Form1.cs",
-              "RelativeDocumentMoniker": "19.08.Halmazok\\Form1.cs",
-              "ToolTip": "C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\19.08.Halmazok\\Form1.cs [Design]",
-              "RelativeToolTip": "19.08.Halmazok\\Form1.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\MySqlUsersElo2\\Form1.cs",
+              "RelativeDocumentMoniker": "MySqlUsersElo2\\Form1.cs",
+              "ToolTip": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\MySqlUsersElo2\\Form1.cs",
+              "RelativeToolTip": "MySqlUsersElo2\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T06:26:53.289Z",
+              "WhenOpened": "2025-03-18T18:51:38.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\MySqlUsersElo2\\Form1.cs",
+              "RelativeDocumentMoniker": "MySqlUsersElo2\\Form1.cs",
+              "ToolTip": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\MySqlUsersElo2\\Form1.cs [Design]",
+              "RelativeToolTip": "MySqlUsersElo2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:51:16.751Z",
               "EditorCaption": " [Design]"
             }
           ]

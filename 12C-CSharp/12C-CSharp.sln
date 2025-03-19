@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KepekKorbe", "19.06.KepekKo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Halmazok", "19.08.Halmazok\Halmazok.csproj", "{E9DD7A69-89BC-4E17-9C55-E35617E261F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlUsersElo2", "MySqlUsersElo2\MySqlUsersElo2.csproj", "{54BDB9EF-B8EE-44AD-9CDF-01F4FFF6CCA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -187,6 +189,10 @@ Global
 		{E9DD7A69-89BC-4E17-9C55-E35617E261F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9DD7A69-89BC-4E17-9C55-E35617E261F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9DD7A69-89BC-4E17-9C55-E35617E261F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54BDB9EF-B8EE-44AD-9CDF-01F4FFF6CCA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54BDB9EF-B8EE-44AD-9CDF-01F4FFF6CCA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54BDB9EF-B8EE-44AD-9CDF-01F4FFF6CCA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54BDB9EF-B8EE-44AD-9CDF-01F4FFF6CCA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
