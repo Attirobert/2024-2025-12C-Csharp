@@ -39,17 +39,19 @@ namespace MySqlUsersElo2
         private FormState formState = FormState.Closed;
         #endregion A Form és az adatbázis állapotai
 
-        // Gomb feliratok
+        #region Gomb feliratok
         private string insBasic = "Beszúrás";
         private string insEdit = "Szerkesztés vége";
         private string updBasic = "Módosítás";
         private string updEdit = "Módosítás vége";
+        #endregion Gomb feliratok
 
-        // Üzenet szövegek
+        #region Üzenet szövegek
         private string openSikeres = "A kapcsolódás az adatbázishoz sikeres!",
             openNemSikeres = "A kapcsolódás az adatbázishoz sikertelen!",
             canToRead = "Az olvasás megkezdődhet!",
             closedDB = "Az adatbázis bezárva";
+        #endregion Üzenet szövegek
 
         public Form1()
         {

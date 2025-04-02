@@ -96,7 +96,6 @@ C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\MySql
 C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\MySqlUsersElo2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\MySqlUsersElo2\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\MySqlUsersElo2\bin\Debug\ZstdSharp.dll
-C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\MySqlUsersElo2\bin\Debug\BouncyCastle.Crypto.xml
 C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\MySqlUsersElo2\bin\Debug\BouncyCastle.Cryptography.xml
 C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\MySqlUsersElo2\bin\Debug\Google.Protobuf.pdb
 C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\MySqlUsersElo2\bin\Debug\Google.Protobuf.xml
@@ -121,3 +120,9 @@ C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\MySql
 C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\MySqlUsersElo2\obj\Debug\MySqlUse.405D7737.Up2Date
 C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\MySqlUsersElo2\obj\Debug\MySqlUsersElo2.exe
 C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\MySqlUsersElo2\obj\Debug\MySqlUsersElo2.pdb
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\MySqlUsersElo2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\MySqlUsersElo2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\MySqlUsersElo2\bin\Debug\MySqlConnector.dll
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\MySqlUsersElo2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\MySqlUsersElo2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\karobatti\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\MySqlUsersElo2\bin\Debug\MySqlConnector.xml
