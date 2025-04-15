@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{ACE9AA2E-ACA7-4463-90C2-6C29DCC3EF26}|DBConnectionsClass\\DBConnectionsClass.csproj|c:\\users\\attila\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\dbconnectionsclass\\connectionbuildernew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACE9AA2E-ACA7-4463-90C2-6C29DCC3EF26}|DBConnectionsClass\\DBConnectionsClass.csproj|solutionrelative:dbconnectionsclass\\connectionbuildernew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EDB0705-6610-46BB-9473-334D692934C7}|IktatoMySql\\IktatoMySql.csproj|c:\\users\\attila\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\iktatomysql\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0EDB0705-6610-46BB-9473-334D692934C7}|IktatoMySql\\IktatoMySql.csproj|solutionrelative:iktatomysql\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EDB0705-6610-46BB-9473-334D692934C7}|IktatoMySql\\IktatoMySql.csproj|c:\\users\\attila\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\iktatomysql\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0EDB0705-6610-46BB-9473-334D692934C7}|IktatoMySql\\IktatoMySql.csproj|solutionrelative:iktatomysql\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACE9AA2E-ACA7-4463-90C2-6C29DCC3EF26}|DBConnectionsClass\\DBConnectionsClass.csproj|c:\\users\\attila\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\dbconnectionsclass\\dbconnectionsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACE9AA2E-ACA7-4463-90C2-6C29DCC3EF26}|DBConnectionsClass\\DBConnectionsClass.csproj|solutionrelative:dbconnectionsclass\\dbconnectionsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,62 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConnectionBuilderNew.cs",
-              "DocumentMoniker": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\DBConnectionsClass\\ConnectionBuilderNew.cs",
-              "RelativeDocumentMoniker": "DBConnectionsClass\\ConnectionBuilderNew.cs",
-              "ToolTip": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\DBConnectionsClass\\ConnectionBuilderNew.cs",
-              "RelativeToolTip": "DBConnectionsClass\\ConnectionBuilderNew.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T19:37:55.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\IktatoMySql\\MainForm.cs",
-              "RelativeDocumentMoniker": "IktatoMySql\\MainForm.cs",
-              "ToolTip": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\IktatoMySql\\MainForm.cs [Design]",
-              "RelativeToolTip": "IktatoMySql\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T19:32:13.99Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\IktatoMySql\\App.config",
-              "RelativeDocumentMoniker": "IktatoMySql\\App.config",
-              "ToolTip": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\IktatoMySql\\App.config",
-              "RelativeToolTip": "IktatoMySql\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-04-15T19:21:55.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DBConnectionsClass.cs",
-              "DocumentMoniker": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\DBConnectionsClass\\DBConnectionsClass.cs",
-              "RelativeDocumentMoniker": "DBConnectionsClass\\DBConnectionsClass.cs",
-              "ToolTip": "C:\\Users\\attila\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\DBConnectionsClass\\DBConnectionsClass.cs",
-              "RelativeToolTip": "DBConnectionsClass\\DBConnectionsClass.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwCcAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T19:18:37.382Z",
-              "EditorCaption": ""
             }
           ]
         }
