@@ -295,16 +295,16 @@ namespace MySqlUsersElo2
                 sqlComm.CommandType = CommandType.StoredProcedure;
 
                 // Paraméterek beállítása
-                sqlComm.Parameters.AddWithValue("ID", pID);
+                sqlComm.Parameters.AddWithValue("pID", pID);
 
                 MySqlParameter p = new MySqlParameter();
-                p.ParameterName = "Nev";
+                p.ParameterName = "pNev";
                 p.Value = pNev;
                 p.MySqlDbType = MySqlDbType.String;
                 sqlComm.Parameters.Add(p);
 
-                sqlComm.Parameters.AddWithValue("Jelszo", pJelszo);
-                sqlComm.Parameters.AddWithValue("Admin", pAdmin);
+                sqlComm.Parameters.AddWithValue("pJelszo", pJelszo);
+                sqlComm.Parameters.AddWithValue("pAdmin", pAdmin);
 
                 try
                 {
@@ -349,7 +349,7 @@ namespace MySqlUsersElo2
                 sqlComm.CommandType = CommandType.StoredProcedure;
 
                 // Paraméterek beállítása
-                sqlComm.Parameters.AddWithValue("ID", pID);
+                sqlComm.Parameters.AddWithValue("pID", pID);
 
                 try
                 {

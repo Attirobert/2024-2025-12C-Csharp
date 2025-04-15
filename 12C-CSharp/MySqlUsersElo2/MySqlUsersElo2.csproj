@@ -148,8 +148,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Data\UserDelete.sql" />
+    <Content Include="Data\UserInsert.sql" />
     <Content Include="Data\usersCreate.sql" />
     <Content Include="Data\usersData.sql" />
+    <Content Include="Data\usersTeljesLista.sql" />
+    <Content Include="Data\UserUpdate.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
