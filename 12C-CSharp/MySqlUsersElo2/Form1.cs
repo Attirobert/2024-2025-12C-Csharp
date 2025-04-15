@@ -25,6 +25,7 @@ namespace MySqlUsersElo2
         private string userInsert = "UserInsert";
         private string userUpdate = "UserUpdate";
         private string userDelete = "UserDelete";
+        //private string userSearch = "UserSearch";
         #endregion Tárolt eljárások
 
         #region A Form és az adatbázis állapotai
@@ -35,6 +36,7 @@ namespace MySqlUsersElo2
             Reading,    // Olvasás közben
             EditInsert,  // Beszúrás adatainak beírása közben
             EditUpdate  // Rekord szerkesztése közben
+            //EditSearch  // Keresendő adat megadása állapotban vagyok
         }
         private FormState formState = FormState.Closed;
         #endregion A Form és az adatbázis állapotai
@@ -168,6 +170,21 @@ namespace MySqlUsersElo2
                     // Gomb feliratok
                     btnUpdate.Text = updEdit;
                     break;
+
+                /*
+                case FormState.EditSearch:
+                    foreach (var item in lstButtons)
+                        item.Enabled = false;
+                    btnKeres.Enabled = true;
+
+                    tbxNev.Enabled = true;
+                    tbxJelszo.Enabled = false;
+                    cbxAdmin.Enabled = false;
+
+                    // Gomb feliratok
+                    //btnKeres.Text = updEdit;
+                    break;
+                */
             }
         }
         #endregion Gombok elérhetőségének beállítása
@@ -379,5 +396,56 @@ namespace MySqlUsersElo2
             formState = FormState.Closed;
             buttonSwitch(formState);
         }
+
+        #region Keresés
+        /*
+        private void btnKeres_Click(object sender, EventArgs e)
+        {
+            if (formState == FormState.EditSearch)
+            {
+                // Lezárom az adatbázist
+                msqlDr.Close();
+                formState = FormState.Opened;
+                buttonSwitch(formState);
+
+                // Elvégzem a keresést
+                SearchUser(tbxNev.Text);
+
+                // Megjelenítem a találatot
+                NextUser();
+
+                // Visszaállítom az adatbázist, a gombokat és a mezőket Reading állapotba
+            }
+            else
+            {
+                formState = FormState.EditSearch;
+                buttonSwitch(formState);
+            }
+        }
+
+        private void SearchUser(string pNev)
+        {
+            using (MySqlCommand sqlComm = new MySqlCommand(userSearch, msqlConn))
+            {
+                sqlComm.CommandType = CommandType.StoredProcedure;
+
+                // Paraméterek beállítása
+                sqlComm.Parameters.AddWithValue("pNev", pNev);
+                try
+                {
+                    // Olvasás a táblából
+                    msqlDr = sqlComm.ExecuteReader();
+
+                    formState = FormState.Reading;
+                    buttonSwitch(formState);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+            }
+        }
+        */
+        #endregion Keresés
     }
 }
