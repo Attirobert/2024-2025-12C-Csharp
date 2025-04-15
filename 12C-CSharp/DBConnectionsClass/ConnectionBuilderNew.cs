@@ -2,7 +2,7 @@
 using System;
 using Microsoft.Extensions.Configuration;
 using System.Data.SqlClient;
-using System.Configuration;
+//using System.Configuration;
 
 namespace ConnectionBuilderExample
 {
@@ -12,8 +12,8 @@ namespace ConnectionBuilderExample
         {
             // Konfiguracio beolvasasa appsettings.json-bol
             var config = new ConfigurationBuilder()
-                .SetBasePath(AppContext.BaseDirectory)
-                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+                //.SetBasePath(AppContext.BaseDirectory)
+                //.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
                 .Build();
 
             string connStr = BuildConnectionString(config);
