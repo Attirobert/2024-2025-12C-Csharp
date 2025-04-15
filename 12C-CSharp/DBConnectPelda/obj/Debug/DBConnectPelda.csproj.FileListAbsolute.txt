@@ -1,0 +1,9 @@
+C:\Users\attila\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\DBConnectPelda\bin\Debug\DBConnectPelda.exe.config
+C:\Users\attila\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\DBConnectPelda\bin\Debug\DBConnectPelda.exe
+C:\Users\attila\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\DBConnectPelda\bin\Debug\DBConnectPelda.pdb
+C:\Users\attila\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\DBConnectPelda\obj\Debug\DBConnectPelda.csproj.AssemblyReference.cache
+C:\Users\attila\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\DBConnectPelda\obj\Debug\DBConnectPelda.Properties.Resources.resources
+C:\Users\attila\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\DBConnectPelda\obj\Debug\DBConnectPelda.csproj.GenerateResource.cache
+C:\Users\attila\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\DBConnectPelda\obj\Debug\DBConnectPelda.csproj.CoreCompileInputs.cache
+C:\Users\attila\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\DBConnectPelda\obj\Debug\DBConnectPelda.exe
+C:\Users\attila\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\DBConnectPelda\obj\Debug\DBConnectPelda.pdb

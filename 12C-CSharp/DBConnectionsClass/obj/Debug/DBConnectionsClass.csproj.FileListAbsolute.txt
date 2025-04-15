@@ -1,0 +1,6 @@
+C:\Users\attila\Source\Repos\2023-2-14Ekszo-CSharp\DBConnectionsClass\bin\Debug\DBConnectionsClass.dll
+C:\Users\attila\Source\Repos\2023-2-14Ekszo-CSharp\DBConnectionsClass\bin\Debug\DBConnectionsClass.pdb
+C:\Users\attila\Source\Repos\2023-2-14Ekszo-CSharp\DBConnectionsClass\obj\Debug\DBConnectionsClass.csproj.AssemblyReference.cache
+C:\Users\attila\Source\Repos\2023-2-14Ekszo-CSharp\DBConnectionsClass\obj\Debug\DBConnectionsClass.csproj.CoreCompileInputs.cache
+C:\Users\attila\Source\Repos\2023-2-14Ekszo-CSharp\DBConnectionsClass\obj\Debug\DBConnectionsClass.dll
+C:\Users\attila\Source\Repos\2023-2-14Ekszo-CSharp\DBConnectionsClass\obj\Debug\DBConnectionsClass.pdb
