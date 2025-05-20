@@ -339,6 +339,7 @@ namespace MySqlUsersElo2
 
         private void btnDelete_Click(object sender, EventArgs e)
         {
+            // A form állapotának beállítása
             switch (formState)
             {
                 case FormState.Reading:
@@ -346,7 +347,8 @@ namespace MySqlUsersElo2
             }
             if (formState == FormState.Reading)
             {
-                msqlDr.Close();
+                msqlDr.Close(); // Bezárom a DataReader típusú objektumot, mert az új művelethez előlről kell olvasni az adatbázist
+
                 formState = FormState.Opened;
                 buttonSwitch(formState);
             }
@@ -384,8 +386,12 @@ namespace MySqlUsersElo2
 
         private void MainForm_FormClosed(object sender, FormClosedEventArgs e)
         {
-            if (msqlConn != null) msqlConn.Close();
-            MessageBox.Show(closedDB);
+            // Ha még nincs bezárva az adatbázis, akkor bezárom
+            if (msqlConn != null)
+            {
+                msqlConn.Close();
+                MessageBox.Show(closedDB);
+            }
         }
 
         private void btnClose_Click(object sender, EventArgs e)
