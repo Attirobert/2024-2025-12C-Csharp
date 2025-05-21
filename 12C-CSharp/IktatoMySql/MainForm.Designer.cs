@@ -54,7 +54,7 @@ namespace IktatoMySql
             this.kimutatásokToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(702, 24);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -71,19 +71,19 @@ namespace IktatoMySql
             // levelezésiTémákToolStripMenuItem
             // 
             this.levelezésiTémákToolStripMenuItem.Name = "levelezésiTémákToolStripMenuItem";
-            this.levelezésiTémákToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
+            this.levelezésiTémákToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.levelezésiTémákToolStripMenuItem.Text = "Levelezési témák";
             // 
             // iktatásToolStripMenuItem
             // 
             this.iktatásToolStripMenuItem.Name = "iktatásToolStripMenuItem";
-            this.iktatásToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
+            this.iktatásToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.iktatásToolStripMenuItem.Text = "Iktatás";
             // 
             // iktatásTallózóToolStripMenuItem
             // 
             this.iktatásTallózóToolStripMenuItem.Name = "iktatásTallózóToolStripMenuItem";
-            this.iktatásTallózóToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
+            this.iktatásTallózóToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.iktatásTallózóToolStripMenuItem.Text = "Iktatás tallózó";
             // 
             // személyekToolStripMenuItem
@@ -138,7 +138,7 @@ namespace IktatoMySql
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(702, 450);
             this.Controls.Add(this.menuStrip1);
             this.Name = "MainForm";
             this.Text = "Iktatás MySql adatbázissal";
