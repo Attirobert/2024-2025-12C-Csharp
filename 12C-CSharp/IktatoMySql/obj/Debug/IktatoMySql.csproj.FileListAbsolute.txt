@@ -114,3 +114,4 @@ C:\Users\attila\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\IktatoMy
 C:\Users\attila\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\IktatoMySql\bin\Debug\System.Text.Encodings.Web.xml
 C:\Users\attila\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\IktatoMySql\bin\Debug\System.Text.Json.xml
 C:\Users\attila\source\repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\IktatoMySql\bin\Debug\System.ValueTuple.xml
+C:\Users\attila\Source\Repos\Attirobert\2024-2025-12C-Csharp\12C-CSharp\IktatoMySql\obj\Debug\IktatoMySql.exe.config
