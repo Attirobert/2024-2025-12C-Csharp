@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EDB0705-6610-46BB-9473-334D692934C7}|IktatoMySql\\IktatoMySql.csproj|c:\\users\\karobatti\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\iktatomysql\\beosztasokform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EDB0705-6610-46BB-9473-334D692934C7}|IktatoMySql\\IktatoMySql.csproj|solutionrelative:iktatomysql\\beosztasokform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EDB0705-6610-46BB-9473-334D692934C7}|IktatoMySql\\IktatoMySql.csproj|c:\\users\\karobatti\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\iktatomysql\\beosztasokform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0EDB0705-6610-46BB-9473-334D692934C7}|IktatoMySql\\IktatoMySql.csproj|C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\iktatomysql\\beosztasokform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0EDB0705-6610-46BB-9473-334D692934C7}|IktatoMySql\\IktatoMySql.csproj|solutionrelative:iktatomysql\\beosztasokform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EDB0705-6610-46BB-9473-334D692934C7}|IktatoMySql\\IktatoMySql.csproj|c:\\users\\karobatti\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\iktatomysql\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ACE9AA2E-ACA7-4463-90C2-6C29DCC3EF26}|DBConnectionsClass\\DBConnectionsClass.csproj|C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\dbconnectionsclass\\dbconnectionsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE9AA2E-ACA7-4463-90C2-6C29DCC3EF26}|DBConnectionsClass\\DBConnectionsClass.csproj|solutionrelative:dbconnectionsclass\\dbconnectionsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDB0705-6610-46BB-9473-334D692934C7}|IktatoMySql\\IktatoMySql.csproj|C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\iktatomysql\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0EDB0705-6610-46BB-9473-334D692934C7}|IktatoMySql\\IktatoMySql.csproj|solutionrelative:iktatomysql\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACE9AA2E-ACA7-4463-90C2-6C29DCC3EF26}|DBConnectionsClass\\DBConnectionsClass.csproj|c:\\users\\karobatti\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\dbconnectionsclass\\dbconnectionsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACE9AA2E-ACA7-4463-90C2-6C29DCC3EF26}|DBConnectionsClass\\DBConnectionsClass.csproj|solutionrelative:dbconnectionsclass\\dbconnectionsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EDB0705-6610-46BB-9473-334D692934C7}|IktatoMySql\\IktatoMySql.csproj|c:\\users\\karobatti\\source\\repos\\attirobert\\2024-2025-12c-csharp\\12c-csharp\\iktatomysql\\beosztasokform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EDB0705-6610-46BB-9473-334D692934C7}|IktatoMySql\\IktatoMySql.csproj|solutionrelative:iktatomysql\\beosztasokform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +38,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "BeosztasokForm.cs",
               "DocumentMoniker": "C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\IktatoMySql\\BeosztasokForm.cs",
               "RelativeDocumentMoniker": "IktatoMySql\\BeosztasokForm.cs",
               "ToolTip": "C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\IktatoMySql\\BeosztasokForm.cs",
               "RelativeToolTip": "IktatoMySql\\BeosztasokForm.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T08:04:29.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BeosztasokForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\IktatoMySql\\BeosztasokForm.cs",
               "RelativeDocumentMoniker": "IktatoMySql\\BeosztasokForm.cs",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DBConnectionsClass.cs",
               "DocumentMoniker": "C:\\Users\\karobatti\\source\\repos\\Attirobert\\2024-2025-12C-Csharp\\12C-CSharp\\DBConnectionsClass\\DBConnectionsClass.cs",
               "RelativeDocumentMoniker": "DBConnectionsClass\\DBConnectionsClass.cs",
